@@ -1,32 +1,32 @@
 # 1.1.1.1
-products/1.1.1.1/ @cloudflare/PCX
+products/1.1.1.1/ @appleone-phyothura
 
 # Access
-products/access/ @cloudflare/access-docs @cloudflare/PCX
+products/access/ @cloudflare/access-docs @appleone-phyothura
 
 # Analytics
-products/analytics/ @soheiokamoto @jherre @tlozoot @cloudflare/PCX
+products/analytics/ @soheiokamoto @jherre @tlozoot @appleone-phyothura
 
 # API
-products/api/ @cloudflare/sdk @cloudflare/PCX
+products/api/ @cloudflare/sdk @appleone-phyothura
 
 # Argo Tunnel
-products/argo-tunnel/ @cloudflare/PCX
+products/argo-tunnel/ @appleone-phyothura
 
 # APO
-products/automatic-platform-optimization/ @cloudflare/PCX
+products/automatic-platform-optimization/ @appleone-phyothura
 
 # Bot management
-products/bots/ @cloudflare/PCX
+products/bots/ @appleone-phyothura
 
 # Browser Isolation
-products/browser-isolation/ @cloudflare/PCX
+products/browser-isolation/ @appleone-phyothura
 
 # BYOIP
-products/byoip/ @ConzorKingKong @dinasaur404 @cloudflare/PCX
+products/byoip/ @ConzorKingKong @dinasaur404 @appleone-phyothura
 
 # Cloudflare One
-products/cloudflare-one/ @cloudflare/PCX
+products/cloudflare-one/ @appleone-phyothura
 
 # Developers homepage
 developers.cloudflare.com/ @cloudflare/PCX
